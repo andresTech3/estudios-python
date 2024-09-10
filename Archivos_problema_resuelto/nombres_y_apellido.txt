@@ -1,0 +1,20 @@
+los datos son :
+
+Nombre : andres
+Apellidos : narvaez
+ -------- 
+Nombre :  manuel
+Apellidos : ozuna
+ -------- 
+Nombre : ana
+Apellidos :  puerta
+ -------- 
+Nombre :  maria
+Apellidos : baldasor
+ -------- 
+Nombre : santiago
+Apellidos : amante
+ -------- 
+Nombre : maria
+Apellidos : jaramillo
+ -------- 
